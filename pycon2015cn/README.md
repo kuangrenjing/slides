@@ -289,7 +289,7 @@ def setup():
     
 ```
 # 总结
-希望坚持阅读到本处的你，能明白Python import的用法、实现和改造方法。本文所涉及到的代码会放在[github](github.com/liuchang0812)上。
+希望坚持阅读到本处的你，能明白Python import的用法、实现和改造方法。本文所涉及到的代码会放在[github](https://github.com/Liuchang0812/slides/tree/master/pycon2015cn)上。
 欢迎转载，转载本站文章请注明作者和出处。[刘畅](liuchang0812.com)
 本文使用CC-BY-SA协议。
 
