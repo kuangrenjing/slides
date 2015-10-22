@@ -479,7 +479,7 @@ def setup():
 ```
 # 总结
 希望坚持阅读到本处的你，能明白Python import的用法、实现和改造方法。本文所涉及到的代码会放在[github](github.com/liuchang0812)上。
-欢迎转载，转载本站文章请注明作者和出处。[刘畅的博客](liuchang0812.com)
+欢迎转载，转载本站文章请注明作者和出处。[刘畅的博客](http://liuchang0812.com)
 
 本文使用CC-BY-SA协议。
 
