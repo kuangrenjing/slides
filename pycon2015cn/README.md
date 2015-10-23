@@ -1,5 +1,5 @@
-本文所涉及到的代码在[github](https://github.com/Liuchang0812/slides/tree/master/pycon2015cn)上。
-欢迎转载，转载本站文章请注明作者和出处。[刘畅的博客](http://liuchang0812.com) [文章地址](https://github.com/Liuchang0812/slides/tree/master/pycon2015cn)
+欢迎转载，转载本站文章请注明作者和出处。[刘畅的博客](http://liuchang0812.com) [文章地址](https://github.com/Liuchang0812/slides/tree/master/pycon2015cn).本文所涉及到的代码在[github](https://github.com/Liuchang0812/slides/tree/master/pycon2015cn)上。
+
 
 # 概述
 
