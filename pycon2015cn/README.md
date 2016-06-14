@@ -121,7 +121,7 @@ ImportError: No module named ex2.foo
   ex3
   2
   ```
-  另外，我们还有一个办法可以解决该问题，在描述之前，我们介绍一个关于Python的非常有用的小知识：**Python解释器会自动将当前工作目录添加到PYTHONPATH**。如下所示，可以看到我们打印出的`sys.path`已经包含了当前工作目录。
+  另外，我们还有一个办法可以解决该问题，在描述之前，我们介绍一个关于Python的非常有用的小知识：**Python解释器会自动将当前工作目录添加到sys.path**。如下所示，可以看到我们打印出的`sys.path`已经包含了当前工作目录。
   ```python
   ╭─liuchang@liuchangdeMacBook-Pro  ~/Codes/pycon/ex4
 ╰─$ cat main.py
