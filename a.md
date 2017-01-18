@@ -22,10 +22,10 @@ pip install coscmd -U --nocache
 
 ```bash
 coscmd config -a youraccessid -s yoursecretkey -u appid -b bucketname -r cn-south
-请将参数替换为您的真实id/key/appid/bucket和园区代号。
-园区为：cn-south或者cn-north
 ```
 
+请将参数替换为您的真实id/key/appid/bucket和园区代号。
+园区为：cn-south或者cn-north
 
 ### 上传文件
 
